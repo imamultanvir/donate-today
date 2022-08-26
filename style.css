@@ -1,0 +1,104 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0%;
+}
+
+section{
+    margin-bottom: 50px;
+}
+
+
+.top-Section{
+    background-image: url(images/donation7.jpg);
+    
+    background-repeat: no-repeat;
+    
+    height: 550px;
+    
+    
+}
+
+    
+
+.top-banner{
+
+    background-color: rgba(0, 0, 0, 0.467);
+    height: 550px;
+
+}
+
+.top-text{
+    display: block;
+    text-align: center;
+    color: white;
+    padding: 80px;
+    margin: 10px;
+
+    }
+
+.top-heading{
+    font-size: 350%;
+    font-weight: bold;
+
+}
+
+.donate-button{
+    margin-top: 50px;
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    padding: 10px;
+    border: 1px solid #FF5959;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.sec-text{
+    
+    text-align: center;
+    color: rgb(6, 6, 6);
+    
+
+}
+.donate-amount{
+ 
+
+    margin-top: 20px;
+    margin-bottom: 30px ;
+    display: flex;
+    
+    
+}
+
+
+.para-box{
+    cursor: pointer;
+    
+    margin-left: 180px;
+    color: black;
+    background-color: rgba(139, 139, 139, 0.208);
+    border: 1px solid rgba(143, 142, 142, 0.251);
+    border-radius: 5px;
+    padding: 15px;
+}
+#highlight-amount{
+    background-color: #ff595964;
+    border: 1px solid crimson;
+}
+
+.sec-heading{
+    font-size: 150%;
+    font-weight: bold;
+}
+.input-taka{
+    margin-bottom: 30px;
+    text-align: center;
+    width: 40%;
+    border: 0;
+    border-bottom: 2px solid gray;
+    outline: 0;
+    font-size: 1.1rem;
+    color: rgb(65, 65, 65);
+    padding: 7px 0;
+    background: transparent;
+    
+}
